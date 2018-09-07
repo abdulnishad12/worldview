@@ -20,12 +20,6 @@ const pluginSystem = [
     filename: 'web/index.html',
     inject: false
   }),
-  new webpack.ProvidePlugin({
-    '$': 'jquery',
-    'jQuery': 'jquery',
-    'window.jQuery': 'jquery',
-    'window.$': 'jquery'
-  }),
   new MiniCssExtractPlugin({
     filename: 'wv.css'
   }),
