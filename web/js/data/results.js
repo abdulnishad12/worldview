@@ -1,5 +1,3 @@
-import $ from 'jquery';
-
 import OlGeomMultiPolygon from 'ol/geom/multipolygon';
 import OlGeomMultiPoint from 'ol/geom/multipoint';
 import OlFormatGeoJSON from 'ol/format/geojson';

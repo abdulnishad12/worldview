@@ -1,4 +1,3 @@
-import $ from 'jquery';
 import lodashEach from 'lodash/each';
 import OlStyleStyle from 'ol/style/style';
 import OlStyleIcon from 'ol/style/icon';

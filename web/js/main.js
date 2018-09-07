@@ -1,5 +1,4 @@
 import 'babel-polyfill'; // Needed for worldview-components in IE and older browsers
-import $ from 'jquery';
 import lodashEach from 'lodash/each';
 import googleAnalytics from './components/util/google-analytics';
 
